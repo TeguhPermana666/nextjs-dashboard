@@ -1,12 +1,7 @@
 export default function Page(){
-<<<<<<< HEAD
     return(
         <div>
             <h1>Invoices Page</h1>
         </div>
-=======
-    return (
-        <p>Invoices Page</p>
->>>>>>> 5b5cbc4 (bab 4 lanjutan)
     )
 }

@@ -1,14 +1,7 @@
 export default function Page(){
-<<<<<<< HEAD
     return (
         <div>
             <h1>Customers Page</h1>
         </div>
     )
 } 
-=======
-    return(
-        <p>Customers Page</p>
-    )
-}
->>>>>>> 5b5cbc4 (bab 4 lanjutan)
